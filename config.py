@@ -1,4 +1,4 @@
-token = "6920396789:AAHbke6h2e_RIWIXzhuzRo3_d1gjycfMHJ4"
-PAYMENT_TOKEN = ["371317599:TEST:1724510505114"]
-admins = ["6185998162, 6887311136"]
-Channel_token = "@ORDERS571"
+token = "Your_telegram_bot_api"
+PAYMENT_TOKEN = ["your_payment_api"]
+admins = ["your_chat_id"]
+Channel_token = "your_channel_id"
